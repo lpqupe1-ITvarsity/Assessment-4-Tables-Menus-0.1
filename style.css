@@ -1,0 +1,38 @@
+h1{
+	color: green;
+	font-family: sans-serief;
+}
+
+table{
+	font-family: Helvetica, sans-serief;
+	border-collapse: collapse;
+	border-width: 3px;
+	border-style: solid;
+	border-color: #BCF5A9;
+}
+
+th{
+	font-wieght: 800;
+	background-color: #BCF5A9;
+	color: black;
+}
+
+ul{
+	list-style-type: url('Images/pointer-icon.png')
+	}
+
+ol{
+	list-style-type: upper-roman;
+}
+
+#menu-bar a{
+	font-family: Helvetica, sans-serief;
+	text-decoration: none;
+	background-color: aquamarine;
+	padding: 5px;
+}
+
+#menu-bar a:hover{
+	background-color: aqua;
+	color: white;
+	}
